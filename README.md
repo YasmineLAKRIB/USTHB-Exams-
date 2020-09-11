@@ -1,17 +1,18 @@
-# USTHB-Exams-
-This is a space where you can contribute just by adding USTHB's Exams ,whatever the specialty and the year .
+# USTHB Exams
+This is a space where you can contribute just by adding USTHB's Exams, whatever the specialty and the year.
 
- #Usage 
- In order to be able to add your documents : 
-- Documents should be on the format world of PDF .
-- Using a Scanner with the pc , or converte photos with the app Notebloc using a phone .
+## Usage 
+In order to be able to add your documents : 
+- Documents should be on the format word of PDF.
+- Use a Scanner with the pc, or convert photos with the app Notebloc using a phone.
 
-#Tasks 
+## Tasks 
 - Add USTHB's exams with the correction if available
-- Specify the year and the speciality of each subject
+- Specify the year and the speciality of each subject like so: 
+`ST-L1-S1-MecaniqueDuPoint-2012.doc`
 - Invite your friends to contribute 
 
 
-#Resources
+## Resources
 - El Baskri library
-- Exams of last years 
+- Exams of previous years 
