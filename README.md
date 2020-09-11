@@ -10,3 +10,8 @@ This is a space where you can contribute just by adding USTHB's Exams ,whatever 
 - Add USTHB's exams with the correction if available
 - Specify the year and the speciality of each subject
 - Invite your friend to contribute 
+
+
+#Resources
+- El Baskri library
+- Exams of last years 
